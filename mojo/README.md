@@ -2,7 +2,7 @@
 #How to run?
 
 ##JSONrpc2 server using mojo/anyevent talking to random blocking server.
- hypnotoad ./% -f jsonrpc_nohandle.pl
+ hypnotoad ./jsonrpc_nohandle.pl -f 
  
 ## Random blocking server
  hypnotoad mojo-daemon.pl -f
